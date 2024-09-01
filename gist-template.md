@@ -1,4 +1,4 @@
-# Computer Science Regex Tutorial
+# Computer Science for Javascript: Regex Tutorial
 
 ## Introduction to CS Regex
 
